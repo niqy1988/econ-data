@@ -1,6 +1,12 @@
 # Output folder
 output/
 
+# api keys
+api_keys.yml
+
+# cahce
+cache.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
