@@ -1,0 +1,9 @@
+general:
+  start_date: 2000-01-01
+  end_date: 2015-12-31
+
+fred:
+  - name: us_gdp
+    symbol: GDPC1
+  - name: fed_fund_rate
+    symbol: DFF
